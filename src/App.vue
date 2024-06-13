@@ -173,19 +173,19 @@ export default {
 }
 
 .hot {
-  background-image: url('../assets/warm.jpg');
+  background-image: url('./assets/warm.jpg');
 }
 
 .warm {
-  background-image: url('../assets/warm.jpg');
+  background-image: url('./assets/warm.jpg');
 }
 
 .cool {
-  background-image: url('../assets/cool.jpg');
+  background-image: url('./assets/cool.jpg');
 }
 
 .cold {
-  background-image: url('../assets/cool.jpg');
+  background-image: url('./assets/cool.jpg');
 }
 
 </style>
